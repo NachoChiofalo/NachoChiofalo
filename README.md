@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy Nacho 
+# 👋 ¡Hola! Soy Juan Ignacio
 
 <div align="center">
 
-### 💻 Desarrollador Full Stack en formación | 🚀 Enfocado en construir soluciones reales
+### 💻 Backend / Fullstack Developer | 🚀 Sistemas en producción con impacto real
 
 </div>
 
@@ -10,13 +10,13 @@
 
 ## ✨ Sobre mí
 
-Soy un desarrollador apasionado por crear productos web funcionales, intuitivos y con impacto real.  
-Me interesa especialmente el desarrollo **full stack**, el diseño de sistemas y la mejora continua de la experiencia de usuario.
+Desarrollador backend/fullstack. Diseño y construyo sistemas end-to-end — desde la arquitectura hasta el despliegue — resolviendo reglas de negocio complejas: gestión de pagos, conciliación bancaria, autenticación y automatización.
 
-- 🔭 Actualmente trabajando en proyectos web y backend
-- 🧠 Aprendiendo y profundizando en arquitectura, APIs y despliegues
-- 🎯 Objetivo: construir software sólido, escalable y bien diseñado
-- ⚡ Me motiva convertir ideas en productos concretos
+- 🏢 Desarrollé y desplegué **CAFTTUR**, sistema de gestión de cuotas y pagos usado en producción por una cámara empresarial con **+100 socios activos**
+- 🗳️ Construí un **sistema electoral distribuido** validado en una **elección municipal real** (7.000 habitantes)
+- 🎓 Estudiante avanzado de Ingeniería en Sistemas de Información (UTN FRC) — promedio 8.03
+- 🤖 Uso diario de herramientas de IA (Claude Code, Codex) como parte de mi flujo de desarrollo
+- 🎯 Foco en mantenibilidad, trazabilidad y consistencia de datos
 
 ---
 
@@ -24,13 +24,14 @@ Me interesa especialmente el desarrollo **full stack**, el diseño de sistemas y
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/Java-Backend-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Estructura-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Estilos-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PLpgSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Persistencia-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Contenedores-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Automatización-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automatización-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Control_de_versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -38,32 +39,31 @@ Me interesa especialmente el desarrollo **full stack**, el diseño de sistemas y
 
 ## 🚀 Proyectos destacados
 
-### 🗳️ Sistema Electoral
-**Stack:** JavaScript, HTML, CSS, PLpgSQL, Docker  
-Proyecto orientado a la gestión y lógica de un sistema electoral, con foco en estructura, datos y flujo de procesos.
+### 🏢 CAFTTUR — Sistema de gestión de cuotas y pagos
+**En producción · +100 socios activos**
+Sistema full-stack para la Cámara Federal de Transporte Turístico. Reemplazó un proceso 100% manual por trazabilidad centralizada, conciliación bancaria automática desde Excel no estructurado, e imputación FIFO de pagos.
+**Stack:** Java 21, Spring Boot, Spring Security, PostgreSQL, Flyway, JWT, React, TypeScript, Docker Compose, n8n
+> Repo privado — puedo compartir detalles técnicos si te interesa.
 
+### 🗳️ Sistema Electoral Distribuido
+**Validado en una elección municipal real**
+Arquitectura de microservicios con API Gateway centralizado para gestión de padrón y proceso eleccionario end-to-end. En uso en un municipio de 7.000 habitantes.
+**Stack:** JavaScript, microservicios, API Gateway, REST APIs, PL/pgSQL, Docker
 - Repo: [`SistemaElectoralMs`](https://github.com/NachoChiofalo/SistemaElectoralMs)
 
----
+### 🏭 Tesis de grado — Automatización de horno industrial (Fermar S.A.)
+**Equipo de 6 · Backend & DevOps Lead**
+Sistema de inspección y control térmico en tiempo real integrando visión artificial e IoT. Responsable de la arquitectura backend, la contenerización con Docker y la capa de comunicación con nodos IoT.
 
 ### ☕ BackendTPI
-**Stack:** Java (principal), Docker  
-Backend robusto orientado a lógica de negocio y estructura de servicios.
-
+Backend en Java orientado a lógica de negocio y estructura de servicios, contenerizado con Docker.
 - Repo: [`BackendTPI`](https://github.com/NachoChiofalo/BackendTPI)
 
----
+### 🛍️ lucirte.tienda
+E-commerce en React, desplegado y en uso, orientado a experiencia de usuario y conversión.
 
-## 🔒 Proyectos privados
-
-También trabajo en repositorios privados donde desarrollo:
-
-- Arquitecturas backend
-- Integraciones API
-- Mejoras de performance
-- Módulos internos para soluciones reales
-
-> Si te interesa ver más sobre mi trabajo, podemos conectar y te comparto detalles técnicos.
+### 🏛️ CEIJA19 — Museo digital comunitario
+Plataforma en uso para gestión de contenido histórico, integrando frontend y base de datos.
 
 ---
 
@@ -79,15 +79,14 @@ También trabajo en repositorios privados donde desarrollo:
 
 ## 🌐 Contacto
 
-- 📫 **Email:** _nachochiofalo@gmail.com_
-- 💼 **LinkedIn:** _[Ignacio Chiofalo](linkedin.com/in/ignacio-chiofalo-86071b206/)_
+- 📫 **Email:** nachochiofalo@gmail.com
+- 💼 **LinkedIn:** [Ignacio Chiofalo](https://linkedin.com/in/ignacio-chiofalo-86071b206/)
 
 ---
 
 <div align="center">
 
 ### 🚀 Gracias por visitar mi perfil
-
-_Siempre abierto a colaborar en proyectos interesantes._
+_Abierto a roles backend/fullstack, DevOps y oportunidades freelance._
 
 </div>
