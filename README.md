@@ -12,8 +12,6 @@
 
 Desarrollador backend/fullstack. Diseño y construyo sistemas end-to-end — desde la arquitectura hasta el despliegue — resolviendo reglas de negocio complejas: gestión de pagos, conciliación bancaria, autenticación y automatización.
 
-- 🏢 Desarrollé y desplegué **CAFTTUR**, sistema de gestión de cuotas y pagos usado en producción por una cámara empresarial con **+100 socios activos**
-- 🗳️ Construí un **sistema electoral distribuido** validado en una **elección municipal real** (7.000 habitantes)
 - 🎓 Estudiante avanzado de Ingeniería en Sistemas de Información (UTN FRC) — promedio 8.03
 - 🤖 Uso diario de herramientas de IA (Claude Code, Codex) como parte de mi flujo de desarrollo
 - 🎯 Foco en mantenibilidad, trazabilidad y consistencia de datos
